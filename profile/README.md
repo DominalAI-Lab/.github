@@ -1,7 +1,7 @@
 # DominoAI Lab 
 
 💬 *"It takes just 29 progressively-larger dominoes to knock over a domino the size of the Empire State Building."*
-**— [The Domino Effect](https://medium.com/@danielstillman/the-domino-effect-or-the-art-of-getting-started-and-continuing-5b6e1a4e7a5b)**
+**— [The Domino Effect](https://medium.com/design-bootcamp/the-domino-effect-26c054479e79)**
 
 🚀 *Yes, that's our profile picture too --- why just talk about dominoes when you can be one?*
 
