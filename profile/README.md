@@ -22,7 +22,7 @@ Our research spans **knowledge-augmented deep learning**, **probabilistic graphi
 | Paper | Venue |
 |-------|-------|
 | [PAD-Hand: Physics-Aware Diffusion for Hand Motion Recovery](https://elkhanzada.github.io/pad-hand/) | CVPR 2026 |
-| [Bayesian Network Structure Discovery Using Large Language Models]([https://github.com/zhangy76/DIP-Hand](https://github.com/sherryzyh/llmbn)) | TMLR 2026 |
+| [Bayesian Network Structure Discovery Using Large Language Models](https://github.com/sherryzyh/llmbn) | TMLR 2026 |
 
  
 See the full list on [Google Scholar](https://scholar.google.com/citations?hl=en&user=hxkHMJIAAAAJ).
