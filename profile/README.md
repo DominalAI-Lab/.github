@@ -13,10 +13,10 @@ Our research spans **knowledge-augmented deep learning**, **probabilistic graphi
  
 ### Research Areas
  
-- **Knowledge-augmented Deep Learning** — Physics-informed deep learning and neural symbolic integration
-- **Probabilistic Graphical Models** — Bayesian inference, causal discovery
-- **Computer Vision** — Human motion recovery, 3D reconstruction and generation, Physics property reasoning
-- **AI for Health** — Medical image analysis, Behavioral phenotyping
+- **Knowledge-augmented Deep Learning**: Physics-informed deep learning and neural symbolic integration
+- **Probabilistic Graphical Models**: Bayesian inference, causal discovery
+- **Computer Vision**: Human motion recovery, 3D reconstruction and generation, Physics property reasoning
+- **AI for Health**: Medical image analysis, Behavioral phenotyping
  
 
  
