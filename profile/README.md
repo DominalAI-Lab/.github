@@ -1,5 +1,12 @@
 # DominoAI Lab @ Michigan State University
- 
+
+💬 *"It takes just 29 progressively-larger dominoes to knock over a domino the size of the Empire State Building."*
+**— [The Domino Effect](https://medium.com/@danielstillman/the-domino-effect-or-the-art-of-getting-started-and-continuing-5b6e1a4e7a5b)**
+
+🚀 *Yes, that's our profile picture too --- why just talk about dominoes when you can be one?*
+
+## About Us
+
 We are a research lab in the Department of Computer Science and Engineering at Michigan State University, led by [Dr. Zijun Cui](https://zijunjkl.github.io/).
  
 Our research spans **knowledge-augmented deep learning**, **probabilistic graphical models**, **computer vision**, and **AI for health**.
